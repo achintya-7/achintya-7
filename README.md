@@ -9,7 +9,4 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<h3 align="left">Profile views:</h3>
-<p align="left">
-  
-![Visitor Count](https://profile-counter.glitch.me/{achintya-7}/count.svg) 
+
