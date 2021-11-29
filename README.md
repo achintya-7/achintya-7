@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Achintya
 
 - 💬 Ask me about ML/AI, Python, App-Dev, C/C++
 - 😄 Pronouns: he/him
