@@ -5,12 +5,6 @@
 - Fact about me: Like to play games and discover new open source projects. 
 
 
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
 ## 📈 Stats
 <p align="center">
 	
