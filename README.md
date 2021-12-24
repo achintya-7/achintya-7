@@ -15,7 +15,7 @@ I am Achintya, currently persuing B.Tech Computer Science. I am intrested in Mac
 
 ### Language :
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-green?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-java-darkblue?style=flat-square&logo=java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=Kotlin)
 ![Dart](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=Dart)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
