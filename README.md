@@ -15,7 +15,7 @@ I am Achintya, currently persuing B.Tech Computer Science. I am intrested in Mac
 
 ### Language :
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-java-green?style=flat-square&logo=java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=Kotlin)
 ![Dart](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=Dart)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -30,7 +30,7 @@ I am Achintya, currently persuing B.Tech Computer Science. I am intrested in Mac
 ![VelocityX](https://img.shields.io/badge/-VelocityX-E10098?style=flat-square&logo=VelocityX)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Appwrite](https://img.shields.io/badge/-Appwrite-red?style=flat-square&logo=Appwrite)
+![Appwrite](https://img.shields.io/badge/-Appwrite-white?style=flat-square&logo=Appwrite)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
 <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
