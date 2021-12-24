@@ -1,4 +1,4 @@
-### Hello there, I'm Achintya <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+# Hello there, I'm Achintya <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 
 I am Achintya, currently persuing B.Tech Computer Science. I am intrested in Machine Learning, App Development. I am a huge Open Source advocate and is always open to collaborate on new projetcs. Find out more about me & feel free to connect with me here:
