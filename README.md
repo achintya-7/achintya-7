@@ -44,14 +44,8 @@ I am Achintya, currently persuing B.Tech Computer Science. I am intrested in Mac
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=achintya-7&theme=tokyonight" />
 </p>
 
+## :musical_note: Recent Jams
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22rwq3xgfxaeiogrerlrhqwjy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=22rwq3xgfxaeiogrerlrhqwjy&redirect=true)
-
-## :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
- 
 
 
 
