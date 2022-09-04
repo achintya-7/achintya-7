@@ -10,7 +10,14 @@ I am Achintya, currently persuing B.Tech Computer Science. I am intrested in Mac
 
 [![Achintya's github activity graph](https://activity-graph.herokuapp.com/graph?username=achintya-7&theme=xcode)](https://git.io/kaiwalyakoparkar)
 
- 
+## Blogs
+### ![Movie Recommender Using Jina AI](https://blog.commclassroom.org/movie-recommender-powered-by-jina-ai)
+### ![Using Google Maps in Flutter](https://blog.commclassroom.org/google-maps-in-your-flutter-app)
+### ![KubeSphere 101](https://achintya-7.hashnode.dev/kubesphere-101)
+### ![Portainer 101](https://achintya-7.hashnode.dev/portainer-101)
+
+
+
 ## ⚡ Technologies
 
 ### Language :
