@@ -10,13 +10,13 @@ I am Achintya, currently persuing B.Tech Computer Science. I am intrested in Mac
 
 [![Achintya's github activity graph](https://activity-graph.herokuapp.com/graph?username=achintya-7&theme=xcode)](https://git.io/kaiwalyakoparkar)
 
-## Blogs
+# Blogs
 <!-- BLOGPOSTS:START -->
  - 🌮 [Google Maps in your Flutter App](https://achintya-7.hashnode.dev/google-maps-in-your-flutter-app)
  - 🚀 [KubeSphere 101](https://achintya-7.hashnode.dev/kubesphere-101)
  - 💯 [Portainer 101](https://achintya-7.hashnode.dev/portainer-101)<!-- BLOGPOSTS:END -->
 
-## ⚡ Technologies
+# Technologies
 
 ### Language :
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -42,14 +42,14 @@ I am Achintya, currently persuing B.Tech Computer Science. I am intrested in Mac
 <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
 
-## 📈 Stats
+# 📈 Stats
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=achintya-7&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=achintya-7&theme=tokyonight" />
 </p>
 
-## :musical_note: Recent Jams
+# :musical_note: Recent Jams
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22rwq3xgfxaeiogrerlrhqwjy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=22rwq3xgfxaeiogrerlrhqwjy&redirect=true)
 
 
