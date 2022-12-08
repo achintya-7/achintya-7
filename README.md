@@ -12,10 +12,11 @@ I am Achintya, currently persuing B.Tech Computer Science. I am intrested in Mac
 
 # Blogs
 <!-- BLOGPOSTS:START -->
- - ### 🌮 [Deploy on Linux with Systemctl and Nginx](https://achintya-7.hashnode.dev/deploy-on-linux-with-systemctl-and-nginx)
- - ### 🚀 [Google Maps in your Flutter App](https://achintya-7.hashnode.dev/google-maps-in-your-flutter-app)
- - ### 💯 [KubeSphere 101](https://achintya-7.hashnode.dev/kubesphere-101)
- - ### 🌮 [Portainer 101](https://achintya-7.hashnode.dev/portainer-101)<!-- BLOGPOSTS:END -->
+ - ### 🌮 [Concurrency in Go - Part 1](https://achintya-7.hashnode.dev/concurrency-in-go-part-1)
+ - ### 🚀 [Deploy on Linux with Systemctl and Nginx](https://achintya-7.hashnode.dev/deploy-on-linux-with-systemctl-and-nginx)
+ - ### 💯 [Google Maps in your Flutter App](https://achintya-7.hashnode.dev/google-maps-in-your-flutter-app)
+ - ### 🌮 [KubeSphere 101](https://achintya-7.hashnode.dev/kubesphere-101)
+ - ### 🚀 [Portainer 101](https://achintya-7.hashnode.dev/portainer-101)<!-- BLOGPOSTS:END -->
 
 # Technologies
 
