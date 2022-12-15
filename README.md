@@ -1,14 +1,12 @@
 # Hello there, I'm Achintya <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 
-I am Achintya, currently persuing B.Tech Computer Science. I am intrested in Machine Learning, App Development. I am a huge Open Source advocate and is always open to collaborate on new projetcs. Find out more about me & feel free to connect with me here:
+I am Achintya, currently persuing B.Tech Computer Science. I am intrested in Backend Engineering, App Development and Machine Learning. I am an Open Source advocate and you can go through all my projects and even use them. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Achintya-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/achintya-singh-4b4563200/)](https://www.linkedin.com/in/achintya-singh-4b4563200/)
 [![Twitter Badge](https://img.shields.io/badge/-Achintya-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/achintya2205)](https://twitter.com/achintya2205)
 [![Gmail Badge](https://img.shields.io/badge/-achintya22052000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:achintya22052000@gmail.com)](mailto:achintya22052000@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-grey?style=flat-square&logo=Github&logoColor=white&link=https://achintya-7.github.io/)](https://achintya-7.github.io/)
-
-[![Achintya's github activity graph](https://activity-graph.herokuapp.com/graph?username=achintya-7&theme=xcode)](https://git.io/kaiwalyakoparkar)
 
 # Blogs
 <!-- BLOGPOSTS:START -->
@@ -21,19 +19,26 @@ I am Achintya, currently persuing B.Tech Computer Science. I am intrested in Mac
 # Technologies
 
 ### Language :
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![NodeJs](https://img.shields.io/badge/node.js%20support-8-brightgreen.svg)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-darkblue?style=flat-square&logo=java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=Kotlin)
 ![Dart](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=Dart)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
 
 
 ### Libraries & Framework :
 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=Flutter)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-white?style=flat-square&logo=tensorflow)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![VelocityX](https://img.shields.io/badge/-VelocityX-E10098?style=flat-square&logo=VelocityX)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
