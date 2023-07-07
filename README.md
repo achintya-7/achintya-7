@@ -7,6 +7,7 @@ I am Achintya, currently persuing B.Tech Computer Science. I am intrested in Bac
 [![Twitter Badge](https://img.shields.io/badge/-Achintya-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/achintya2205)](https://twitter.com/achintya2205)
 [![Gmail Badge](https://img.shields.io/badge/-achintya22052000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:achintya22052000@gmail.com)](mailto:achintya22052000@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-grey?style=flat-square&logo=Github&logoColor=white&link=https://achintya-7.github.io/)](https://achintya-7.vercel.app/)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-grey?style=flat-square&logo=Github&logoColor=white&link=https://achintya-7.github.io/)](https://achintya-x7.vercel.app/)
 
 # Blogs
 <!-- BLOGPOSTS:START -->
