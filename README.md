@@ -11,11 +11,11 @@ I am Achintya, currently persuing B.Tech Computer Science. I am intrested in Bac
 
 # Blogs
 <!-- BLOGPOSTS:START -->
- - ### 🌮 [Concurrency in Go - Part 2](https://achintya-7.hashnode.dev/concurrency-in-go-part-2)
- - ### 🚀 [Concurrency in Go - Part 1](https://achintya-7.hashnode.dev/concurrency-in-go-part-1)
- - ### 💯 [Deploy on Linux with Systemctl and Nginx](https://achintya-7.hashnode.dev/deploy-on-linux-with-systemctl-and-nginx)
- - ### 🌮 [Google Maps in your Flutter App](https://achintya-7.hashnode.dev/google-maps-in-your-flutter-app)
- - ### 🚀 [KubeSphere 101](https://achintya-7.hashnode.dev/kubesphere-101)<!-- BLOGPOSTS:END -->
+ - ### 🌮 [Flutter Isolates 101](https://achintya-7.hashnode.dev/flutter-isolates-101)
+ - ### 🚀 [Concurrency in Go - Part 2](https://achintya-7.hashnode.dev/concurrency-in-go-part-2)
+ - ### 💯 [Concurrency in Go - Part 1](https://achintya-7.hashnode.dev/concurrency-in-go-part-1)
+ - ### 🌮 [Deploy on Linux with Systemctl and Nginx](https://achintya-7.hashnode.dev/deploy-on-linux-with-systemctl-and-nginx)
+ - ### 🚀 [Google Maps in your Flutter App](https://achintya-7.hashnode.dev/google-maps-in-your-flutter-app)<!-- BLOGPOSTS:END -->
 
 # Technologies
 
