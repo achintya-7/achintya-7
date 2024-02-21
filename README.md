@@ -1,7 +1,7 @@
 # Hello there, I'm Achintya <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 
-I am Achintya, currently persuing B.Tech Computer Science. I am intrested in Backend Engineering, App Development and Machine Learning. I am an Open Source advocate and you can go through all my projects and even use them. Find out more about me & feel free to connect with me here:
+I am Achintya, currently a Cloud and Backend Developer @Aftershoot. Write code mostly in Go, Dart and Python. Likes to write blogs and travelling. Check me out on my socials.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Achintya-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/achintya-singh-4b4563200/)](https://www.linkedin.com/in/achintya-singh-4b4563200/)
 [![Twitter Badge](https://img.shields.io/badge/-Achintya-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/achintya2205)](https://twitter.com/achintya2205)
