@@ -57,8 +57,10 @@ I am Achintya, currently a Cloud and Backend Developer @Aftershoot. Write code m
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=achintya-7&theme=tokyonight" />
 </p>
 
-# :musical_note: Recent Jams
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22rwq3xgfxaeiogrerlrhqwjy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=22rwq3xgfxaeiogrerlrhqwjy&redirect=true)
+# :musical_note: Activity Graph
+[![Achintya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=achintya-7&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 
 
