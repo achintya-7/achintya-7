@@ -11,11 +11,11 @@ I am Achintya, currently a Cloud and Backend Developer @Aftershoot. Write code m
 
 # Blogs
 <!-- BLOGPOSTS:START -->
- - ### 🌮 [Blazingly Fast Interprocess communication in Go using UNIX Sockets!!](https://achintya-7.hashnode.dev/blazingly-fast-interprocess-communication-in-go-using-unix-sockets)
- - ### 🚀 [Flutter Isolates 101](https://achintya-7.hashnode.dev/flutter-isolates-101)
- - ### 💯 [Concurrency in Go - Part 2](https://achintya-7.hashnode.dev/concurrency-in-go-part-2)
- - ### 🌮 [Concurrency in Go - Part 1](https://achintya-7.hashnode.dev/concurrency-in-go-part-1)
- - ### 🚀 [Deploy on Linux with Systemctl and Nginx](https://achintya-7.hashnode.dev/deploy-on-linux-with-systemctl-and-nginx)<!-- BLOGPOSTS:END -->
+ - ### 🌮 [GSoC 2024 with VLC](https://achintya-7.hashnode.dev/gsoc-2024-with-vlc)
+ - ### 🚀 [Blazingly Fast Interprocess communication in Go using UNIX Sockets!!](https://achintya-7.hashnode.dev/blazingly-fast-interprocess-communication-in-go-using-unix-sockets)
+ - ### 💯 [Flutter Isolates 101](https://achintya-7.hashnode.dev/flutter-isolates-101)
+ - ### 🌮 [Concurrency in Go - Part 2](https://achintya-7.hashnode.dev/concurrency-in-go-part-2)
+ - ### 🚀 [Concurrency in Go - Part 1](https://achintya-7.hashnode.dev/concurrency-in-go-part-1)<!-- BLOGPOSTS:END -->
 
 # Technologies
 
